@@ -11,13 +11,13 @@ Console.WriteLine("Hello, World!");
 double total = 0.0d;
 
 // CashSuper cashSuper = CashFactory.CreateCashAccept("打8折");
-CashSuper cashSuper = CashFactory.CreateCashAccept("满300返100");
 // CashSuper cashSuper = CashFactory.CreateCashAccept("正常收费");
+CashContext cs = new CashContext("满300返100");
 double totalPrices = 0d;
 
 var price = 101;
 var count = 3;
 
-totalPrices = cashSuper.AcceptCash(price * count);
+totalPrices = cs.GetResult(price * count);
 total += totalPrices;
 Console.WriteLine(total);

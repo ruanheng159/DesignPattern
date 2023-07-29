@@ -1,15 +1,16 @@
 namespace DesignPattern_Strategy;
 
-public class CashFactory
+public class CashContext
 {
-    public static CashSuper CreateCashAccept(string type)
+    CashSuper cs = null;
+    public CashContext(string type)
     {
-        CashSuper cs = null;
         switch (type)
         {
             case "正常收费":
-                cs = new CashNormal();
-                break;
+               CashNormal cs0 = new CashNormal();
+               cs = cs0;
+               break;
             case "满300返100":
                 CaseReturn cr1 = new CaseReturn("300", "100");
                 cs = cr1;
@@ -19,7 +20,10 @@ public class CashFactory
                 cs = cr2;
                 break;
         }
+    }
 
-        return cs;
+    public double GetResult(double money)
+    {
+        return cs.AcceptCash(money);
     }
 }
