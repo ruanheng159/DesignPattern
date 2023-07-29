@@ -1,0 +1,15 @@
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/bin/Debug/net7.0/DesignPattern_SimpleFactory
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/bin/Debug/net7.0/DesignPattern_SimpleFactory.deps.json
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/bin/Debug/net7.0/DesignPattern_SimpleFactory.runtimeconfig.json
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/bin/Debug/net7.0/DesignPattern_SimpleFactory.dll
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/bin/Debug/net7.0/DesignPattern_SimpleFactory.pdb
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/obj/Debug/net7.0/DesignPattern_SimpleFactory.csproj.AssemblyReference.cache
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/obj/Debug/net7.0/DesignPattern_SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/obj/Debug/net7.0/DesignPattern_SimpleFactory.AssemblyInfoInputs.cache
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/obj/Debug/net7.0/DesignPattern_SimpleFactory.AssemblyInfo.cs
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/obj/Debug/net7.0/DesignPattern_SimpleFactory.csproj.CoreCompileInputs.cache
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/obj/Debug/net7.0/DesignPattern_SimpleFactory.dll
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/obj/Debug/net7.0/refint/DesignPattern_SimpleFactory.dll
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/obj/Debug/net7.0/DesignPattern_SimpleFactory.pdb
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/obj/Debug/net7.0/DesignPattern_SimpleFactory.genruntimeconfig.cache
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern_SimpleFactory/obj/Debug/net7.0/ref/DesignPattern_SimpleFactory.dll

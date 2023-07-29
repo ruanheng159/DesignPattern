@@ -1,0 +1,15 @@
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/obj/Debug/net7.0/DesignPattern.csproj.AssemblyReference.cache
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/obj/Debug/net7.0/DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/obj/Debug/net7.0/DesignPattern.AssemblyInfoInputs.cache
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/obj/Debug/net7.0/DesignPattern.AssemblyInfo.cs
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/obj/Debug/net7.0/DesignPattern.csproj.CoreCompileInputs.cache
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/bin/Debug/net7.0/DesignPattern
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/bin/Debug/net7.0/DesignPattern.deps.json
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/bin/Debug/net7.0/DesignPattern.runtimeconfig.json
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/bin/Debug/net7.0/DesignPattern.dll
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/bin/Debug/net7.0/DesignPattern.pdb
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/obj/Debug/net7.0/DesignPattern.dll
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/obj/Debug/net7.0/refint/DesignPattern.dll
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/obj/Debug/net7.0/DesignPattern.pdb
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/obj/Debug/net7.0/DesignPattern.genruntimeconfig.cache
+/Users/ruanheng/RiderProjects/DesignPattern/DesignPattern/obj/Debug/net7.0/ref/DesignPattern.dll
