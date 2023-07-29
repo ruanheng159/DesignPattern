@@ -1,5 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+/*
+ * 需求：设计一个商店的收银机，包含正常收费，折扣，满减活动，积分
+ */
+
 using DesignPattern_Strategy;
 
 Console.WriteLine("Hello, World!");
