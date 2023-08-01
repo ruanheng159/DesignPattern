@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DesignPattern_Decorator/1.0.0": {
+        "runtime": {
+          "DesignPattern_Decorator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPattern_Decorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
